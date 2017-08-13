@@ -1,5 +1,5 @@
 {
-  "name": "ReactNativeSignIn",
+  "name": "reactNativeSignIn",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,9 +9,12 @@
   "dependencies": {
     "react": "^16.0.0-alpha.12",
     "react-native": "^0.46.4",
-    "react-native-facebook-login": "^1.5.0",
-    "react-native-fbsdk": "^0.6.1",
-    "react-native-google-signin": "^0.10.0"
+    "react-native-clean-project": "^1.0.4",
+    "react-native-google-signin": "^0.10.0",
+    "react-native-navigation": "^1.1.194",
+    "react-native-orientation": "^3.0.0",
+    "react-navigation": "^1.0.0-beta.11",
+    "watchman": "^0.1.8"
   },
   "devDependencies": {
     "babel-jest": "20.0.3",
